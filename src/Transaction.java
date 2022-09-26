@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Transactions {
+public class Transaction {
     //The amount of this transaction.
     private double amount;
     //The time and date of this transaction
