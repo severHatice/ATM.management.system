@@ -11,4 +11,11 @@ public class Transaction {
     private Account inAccount;
 
 
+    /**
+     Get the amount of the transaction
+     @return the amount
+     */
+    public double getAmount() {
+        return this.amount;
+    }
 }
